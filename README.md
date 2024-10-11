@@ -1,7 +1,6 @@
 # 心安-殡葬服务小程序后端
 
 ## 功能简介
-
 该项目后端使用了Springboot框架, 结合MyBatis框架访问MySQL数据库来进行具体实现
 项目包含五个模块: 
 
@@ -43,15 +42,12 @@
 还有对用户生日倒计时天数的显示, 好友列表查看, 根据心安号(手机号)添加好友, 删除好友, 查看好友请求, 同意添加好友, 查看收藏商家, 和个人信息设置(头像,昵称,签名,手机号,性别,生日)的功能
 
 ## 前端仓库地址
-
 前端仓库: https://github.com/ho1id4yy/xinan-front-end.git
 
 ## 数据库设计文档
-
 数据库设计文档: https://a0xzltkufv4.feishu.cn/docx/KYnkdXXwCod120xQbJpcWz1unmh
 
 ## 接口文档
-
 接口文档: https://apifox.com/apidoc/shared-c3db401f-cc4d-4030-9c59-9a741d38da0e
 
 
